@@ -1,6 +1,10 @@
 <h2>ESP32 & DHT</h2>
 This project uses an ESP32 microcontroller with a DHT11 sensor to measure and display real-time temperature and humidity on a web server.<br>
-The ESP32 connects to a Wi-Fi network and hosts a web page accessible via the device’s IP address, where users can view the sensor data in a browser.
+The ESP32 connects to a Wi-Fi network and hosts a web page accessible via the device’s IP address, where users can view the sensor data in a browser.<br>
+
+
+![output](https://github.com/user-attachments/assets/93f3551d-f656-4bb7-b833-26523445ac9e)
+
 
 <h3>Components</h3>
 ESP32 Microcontroller<br>
