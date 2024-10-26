@@ -39,7 +39,7 @@ WiFiClient client;
  HTTPClient http;
  cloud=cloud+1;
  if(cloud>=20){cloud=0;
-http.begin("http://api.thingspeak.com/update?api_key=KPI9GGJF7U5OJBTVY&field1="+ String(t) +"&field2="+String(h));
+http.begin("http://api.thingspeak.com/update?api_key=YOUR API KEY&field1="+ String(t) +"&field2="+String(h));
  int httpCode = http.GET();
  if(httpCode > 0) {
  Serial.printf("[HTTP] GET... code: %d\n", httpCode);
