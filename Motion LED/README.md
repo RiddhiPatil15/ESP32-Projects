@@ -2,6 +2,9 @@
 This Arduino project controls an LED based on motion detection using a digital motion sensor connected to pin 25. 
 The LED is turned on when motion is detected and turned off otherwise.<br>
 
+![output](https://github.com/user-attachments/assets/8f42c947-84ae-4ee9-bc63-e7f871bb5e9c)
+
+
 <h3>Components</h3>
 1x Arduino board (e.g., ESP32)<br>
 1x Motion sensor connected to pin 25<br>
