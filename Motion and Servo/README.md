@@ -3,6 +3,9 @@ This project demonstrates how to control a servo motor with an ESP32 based on in
 The servo will rotate to 90 degrees when motion is detected, and return to 0 degrees when no motion is detected.<br>
 The motion sensor is connected to pin 25, and the servo is controlled via pin 26.<br>
 
+![circuit diagram](https://github.com/user-attachments/assets/ab364f47-579e-4c83-b05b-d14648b932cf)
+
+
 <h3>Components Used</h3>
 ESP32 microcontroller<br>
 Servo motor<br>
