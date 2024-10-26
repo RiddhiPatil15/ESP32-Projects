@@ -2,6 +2,9 @@
 This Arduino project reads an analog signal from potentiometer and controls four LEDs based on the value of the input. 
 The LEDs are connected to pins 12, 14, 27, and 26.<br>
 
+![output](https://github.com/user-attachments/assets/b7a14cf2-a2cf-43d0-a6f8-eb94ef30c42c)
+
+
 <h3>Hardware Requirements</h3>
 Arduino board (ESP32 or similar)<br>
 4 LEDs<br>
